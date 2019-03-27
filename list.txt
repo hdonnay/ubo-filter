@@ -1,0 +1,3 @@
+www.seriouseats.com##.custom-aba
+arstechnica.com##.ars-sub-app-container
+getpocket.com##li[class~=item_type_spoc]
